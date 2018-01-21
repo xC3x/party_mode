@@ -28,7 +28,7 @@ cp ~/.local/share/omf/themes/party_mode/fish_right_prompt.fish  ~/.config/fish/f
 ## Screenshot
 
 <p align="center">
-<img src="{{https://github.com/xC3x/party_mode/blob/master/screenshots/party_mode.png}}">
+<img src="https://github.com/xC3x/party_mode/blob/master/screenshots/party_mode.png">
 </p>
 
 
