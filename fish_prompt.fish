@@ -1,3 +1,5 @@
+# name: party_mode
+
 function fish_prompt
   # Cache exit status
   set -l last_status $status
