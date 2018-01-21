@@ -13,14 +13,16 @@
 ## Install
 
 ```fish
-$ omf install party_mode
+omf repositories add https://github.com/xC3x/party_mode
+omf install party_mode
+cp ~/.local/share/omf/themes/party_mode/fish_right_prompt.fish  ~/.config/fish/functions/
 ```
 
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Colorful
+* Clock
 
 
 ## Screenshot
